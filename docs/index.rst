@@ -1,4 +1,4 @@
-The Quantum Resistant Ledger - TheQRL
+#The Quantum Resistant Ledger - TheQRL
 
 Python-based blockchain ledger utilising hash-based one-time merkle tree signature scheme (XMSS) instead of ECDSA. Proof-of-stake block selection via HMAC_DRBG PRF and a signed iterative hash chain reveal scheme.
 
